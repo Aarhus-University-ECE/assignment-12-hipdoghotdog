@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/Denmark/Desktop/Prog assignment 12/assignment-12-hipdoghotdog/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/mylib.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\mylib.dir\\src\\Duration_class.cpp.obj -c \"C:\\Users\\Denmark\\Desktop\\Prog assignment 12\\assignment-12-hipdoghotdog\\src\\Duration_class.cpp\"",
+  "file": "C:/Users/Denmark/Desktop/Prog assignment 12/assignment-12-hipdoghotdog/src/Duration_class.cpp"
+},
+{
+  "directory": "C:/Users/Denmark/Desktop/Prog assignment 12/assignment-12-hipdoghotdog/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -g -O0 -std=gnu++14 -o CMakeFiles\\main.dir\\src\\test_Duration_class.cpp.obj -c \"C:\\Users\\Denmark\\Desktop\\Prog assignment 12\\assignment-12-hipdoghotdog\\src\\test_Duration_class.cpp\"",
+  "file": "C:/Users/Denmark/Desktop/Prog assignment 12/assignment-12-hipdoghotdog/src/test_Duration_class.cpp"
+},
+{
+  "directory": "C:/Users/Denmark/Desktop/Prog assignment 12/assignment-12-hipdoghotdog/build/tests",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/tests.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\tests.dir\\src\\tests.cpp.obj -c \"C:\\Users\\Denmark\\Desktop\\Prog assignment 12\\assignment-12-hipdoghotdog\\tests\\src\\tests.cpp\"",
+  "file": "C:/Users/Denmark/Desktop/Prog assignment 12/assignment-12-hipdoghotdog/tests/src/tests.cpp"
+}
+]
